@@ -131,5 +131,9 @@ src=".\TOP_pic\NmeaToResolver_AnalogCard_TOP.png">
 >>>- No component is Picked from Online Component Libraries or even from Eagle Library itself
 >>>- Current Plan is to Automate Component Designs in EAGLE
 >
->- Contact @ [linkedin](https://www,linkedin.com/in/nbl1330/)
+>Contact @ 
+>- [LinkedIn](https://www.linkedin.com/in/nbl1330/)
+>- [Twitter](https://www.twitter.com/nblrehman)
+>- [GitHub](https://www.github.com/onepointsixoneeightzero/)
 ****
+###### Updated November 2022
